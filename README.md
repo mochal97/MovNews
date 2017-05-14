@@ -1,4 +1,14 @@
 # MovNews
+* Nama Aplikasi : MovNews
+
+* Link Aplikasi https://github.com/mochal97/MovNews
+
+* Identitas Siswa :
+* Nama Lengkap   : Moch Alauddin Almuayyad
+* Kelas/No       : XIRPL6/19
+* NIS            : 4753/1472.070
+* Angkatan       : 24
+* SMK TELKOM MALANG
 
 * Alamat API yang digunakan :<br>
 (New York Times API)https://api.nytimes.com/svc/movies/v2/reviews/search.json?api-key=74ce2c37a9f84c3da2f735d8dc538164 <br>
