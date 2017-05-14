@@ -10,8 +10,8 @@ import android.view.ViewGroup;
  * Created by Mochammad Alauddin on 5/14/2017.
  */
 
-public class HomeFragment extends Fragment {
-    public HomeFragment() {
+public class AboutUs extends Fragment {
+    public AboutUs() {
         // Required empty public constructor
     }
 
@@ -19,6 +19,6 @@ public class HomeFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_home, container, false);
+        return inflater.inflate(R.layout.about_us, container, false);
     }
 }

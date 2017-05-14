@@ -5,11 +5,19 @@
         <item
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_home_black_24dp"
-            android:title="Home" />
+            android:title="Movie" />
         <item
-            android:id="@+id/nav_aboutUs"
-            android:icon="@drawable/ic_people_black_24dp"
-            android:title="About Us" />
-    </group>
+            android:id="@+id/nav_story"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="TOP Story" />
 
+    </group>
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_aboutUs"
+                android:icon="@drawable/ic_people_black_24dp"
+                android:title="About Us" />
+        </menu>
+    </item>
 </menu>
