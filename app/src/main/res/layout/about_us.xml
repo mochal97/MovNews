@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.sch.smktelkom_mlg.privateassignment.xirpl619.movnews.AboutUs">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="347dp"
+        android:src="@drawable/abut" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="153dp"
+        android:layout_gravity="bottom"
+        android:layout_margin="20dp"
+        android:layout_marginTop="19dp"
+        android:text="Moch Alauddin Almuayyad\nXI RPL 6\n19"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+
+</FrameLayout>
